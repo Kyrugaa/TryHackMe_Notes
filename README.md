@@ -107,5 +107,18 @@ The interactive labs simulate a hotel Wi-Fi network where you have to pay for th
 
 Deploy the interactive lab and proceed to answer the following questions below.
 
-#### Question 1: What does the term "IP" stand for?                                 Answer 1: Internet Protocol
+#### Question 1:    What does the term "IP" stand for?                                 
+#### Answer 1:      Internet Protocol
+
+#### Question 2:    What is each section of an IP address called?                                
+#### Answer 2:      Octet
+
+#### Question 3:    How many sections (in digits) does an IP address have? 
+#### Answer 3:      4
+
+#### Question 3:    What does the term "MAC" stand for?
+#### Answer 3:      Media Access Control
+
+#### Question 4:    Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
+#### Answer 4:      THM{YOU_GOT_ON_TRYHACKME}
 
