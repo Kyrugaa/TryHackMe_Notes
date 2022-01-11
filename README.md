@@ -6,7 +6,7 @@
 
 #### Networks are simply things connected. For example, your friendship circle: you are all connected because of similar interests, hobbies, skills and sorts.
 
-Networks can be found in all walks of life:
+#### Networks can be found in all walks of life:
 
     A city's public transportation system
     Infrastructure such as the national power grid for electricity
