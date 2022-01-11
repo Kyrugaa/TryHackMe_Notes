@@ -65,7 +65,7 @@ Now we can change our name through deed poll, but we can't, however, change our 
 
 #### IP Addresses
 
-Briefly, an IP address (or Internet Protocol) address can be used as a way of identifying a host on a network for a period of time, where that IP address can then be associated with another device without the IP address changing. First, let's split up precisely what an IP address is in the diagram below:
+Briefly, an IP address (or Internet Protocol) address can be used as a way of identifying a host on a network for a period of time, where that IP address can then be associated with another device without the IP address changing. First, let's split up precisely what an IP address is.
 ![image](https://user-images.githubusercontent.com/80152027/149037698-c4d1c2a9-cd17-44f6-9dc9-2e3e5734c28e.png)
 
 An IP address is a set of numbers that are divided into four octets. The value of each octet will summarise to be the IP address of the device on the network. This number is calculated through a technique known as IP addressing & subnetting, but that is for another day. What's important to understand here is that IP addresses can change from device to device but cannot be active simultaneously more than once within the same network.
