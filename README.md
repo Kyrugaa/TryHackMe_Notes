@@ -134,3 +134,28 @@ Deploy the interactive lab and proceed to answer the following questions below.
 #### Question 4:    Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
 #### Answer 4:      THM{YOU_GOT_ON_TRYHACKME}
 
+
+### Ping (ICMP)
+Ping is one of the most fundamental network tools available to us. Ping uses ICMP (Internet Control Message Protocol) packets to determine the performance of a connection between devices, for example, if the connection exists or is reliable.
+
+The time taken for ICMP packets travelling between devices is measured by ping, such as in the screenshot below. This measuring is done using ICMP's echo packet and then ICMP's echo reply from the target device.
+
+Pings can be performed against devices on a network, such as your home network or resources like websites. This tool can be easily used and comes installed on Operating Systems (OSs) such as Linux and Windows. The syntax to do a simple ping is ping IP address or website URL. Let's see this in action in the screenshot below.
+
+![image](https://user-images.githubusercontent.com/80152027/149038683-4b0d7c4f-99bd-49a3-9633-840583db393a.png)
+
+Here we are pinging a device that has the private address of 192.168.1.254. Ping informs us that we have sent six ICMP packets, all of which were received with an average time of 5.3 seconds.
+
+
+Now you are going to do the same thing to ping the address of "8.8.8.8" on the deployable website in this task. Pinging the correct address will reveal a flag to answer the following question below.
+
+#### Question 1:    What protocol does ping use?
+#### Answer 1:      ICMP
+
+#### Question 2:    What is the syntax to ping 10.10.10.10?
+#### Answer 2:      ping 10.10.10.10
+
+#### Question 3:    What flag do you get when you ping 8.8.8.8?
+#### Answer 3:      THM{I_PINGED_THE_SERVER}
+
+
