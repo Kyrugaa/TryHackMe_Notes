@@ -22,3 +22,5 @@ Networks are integrated into our everyday life. Be it gathering data for the wea
 Take the diagram below as an example, Alice, Bob and Jim have formed their network! We'll come onto this a bit later on.
 ![image](https://user-images.githubusercontent.com/80152027/149037133-c2dbd7f1-8850-4adc-868f-0fee7492321e.png)
 
+Question 1: What is the key term for devices that are connected together? 
+Answer 1: Network
