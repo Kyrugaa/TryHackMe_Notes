@@ -4,7 +4,7 @@
 
 ### What is Networking? (https://youtu.be/42u_2e6eNF4)
 
-####Networks are simply things connected. For example, your friendship circle: you are all connected because of similar interests, hobbies, skills and sorts.
+#### Networks are simply things connected. For example, your friendship circle: you are all connected because of similar interests, hobbies, skills and sorts.
 
 Networks can be found in all walks of life:
 
