@@ -1,6 +1,6 @@
-# TryHackMe_Notes
+# Network Fundamentals                 
 
-## Network Fundamentals
+##Created by tryhackme and cmnatic
 
 ### What is Networking? (https://youtu.be/42u_2e6eNF4)
 
